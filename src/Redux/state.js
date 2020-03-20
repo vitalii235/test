@@ -4,7 +4,7 @@ let state = {
     dialogPage: {
         messagesData: [
             { id: 1, message: 'How are you' },
-            { id: 2, message: 'What is your name&' },
+            { id: 2, message: 'What is you name&' },
             { id: 3, message: 'It can hardly be so' },
         ],
         newMessageText: 'Test-text-message',
