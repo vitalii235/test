@@ -1,0 +1,8 @@
+.app__content{
+    grid-area: c;
+    background-color: yellowgreen;
+  }
+  .app__content img{
+    width: 100%;
+  }
+

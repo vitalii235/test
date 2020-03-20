@@ -1,0 +1,11 @@
+.nav{
+    grid-area: n;
+    background-color: peru;
+  }
+.item a{
+    text-decoration: none;
+    color: red;
+}  
+.item a.active {
+  color: gold;
+}
